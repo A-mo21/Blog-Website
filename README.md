@@ -10,10 +10,12 @@
 </ul>
 
  <h3>features:</h3>
-    <ul><li>Responsive Website.</li>
-      <li>Admin managing users, posts, topics</li>
-      <li>Dynamic User Interface </li>
-      </ul>
+<ul>
+ <li>Responsive Website</li>
+ <li>Admin managing users, posts, topics</li>
+ <li>Dynamic User Interface </li>
+ <li>Blogs </li>
+</ul>
 
      
    <br>
